@@ -23,13 +23,5 @@ Not: sql dosyasını siz farklı bir formatta hazırlayıp kullandıysanız bizi
 
 Takıldığınız Yerde mail@abdullahcetinkaya.com.tr
 
-## Güncelleme 07.04.2018
-Tek sql dosyasının yanında il ilçe mahalle gibi tablolara ayırma eklendi.
-xml formatı tek dosya ve tablolar halinde eklendi
-json formatı tek dosya ve tablolar halinde eklendi
-
-
-
-
 ## Güncelleme 28.09.2022
 Hatalı işlem ile repo silinmişti tekrar eklendi.
