@@ -1,3 +1,7 @@
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=life/il-ilce-mahalle-sokak-cadde-sql&type=Date)](https://star-history.com/#life/il-ilce-mahalle-sokak-cadde-sql&Date)
+
 ## Türkiye İl, İlçe, Mahalle, Sokak, Cadde Bilgisi
 SQL şeklinde olan dosyamızı import ederek kullanabilirsiniz. Sokak/Cadde bilgisi olmayan mahalleler var, güncellendikce bende burda paylaşmayı planlıyorum.
 
