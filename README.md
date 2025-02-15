@@ -2,8 +2,6 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=life/il-ilce-mahalle-sokak-cadde-sql&type=Date)](https://star-history.com/#life/il-ilce-mahalle-sokak-cadde-sql&Date)
 
-
-
 [![](https://visitor-badge.laobi.icu/badge?page_id=life.il-ilce-mahalle-sokak-cadde-sql)](#)
 
 ## Türkiye İl, İlçe, Mahalle, Sokak, Cadde Bilgisi
@@ -28,8 +26,6 @@ Not: sql dosyasını siz farklı bir formatta hazırlayıp kullandıysanız bizi
 - [Ülkeler ve Türkiye İl İlçe Semt Mahalle ve Posta Kodu Veritabanı (Laravel) ](https://github.com/epigra/tr-geozones)
 - [Türkiye için il ilçe semt veritabanı. Bölgesel bilgiler](https://github.com/melihkorkmaz/il-ilce-mahalle-geolocation-rest-api)
 - [Türkiye Adres Veri Tabanı - 5 Nisan 2021](https://github.com/emreuenal/turkiye-il-ilce-sokak-mahalle-veri-tabani)
-
-
 
 Takıldığınız Yerde mail@abdullahcetinkaya.com.tr
 
